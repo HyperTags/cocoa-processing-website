@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 3rem; font-weight: 800; letter-spacing: -1px;">
+<h1 align="center" style="font-size: 3rem; font-weight: 800; letter-spacing: -1px; color: blue;">
   HyperTags©2026
 </h1>
 
