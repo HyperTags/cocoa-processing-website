@@ -18,6 +18,8 @@
 </table>
 ---
 
+---
+
 ![Homepage Screenshot](/public/images/readme/homepage-preview.png)
 
 # Cocoa Processing Website
