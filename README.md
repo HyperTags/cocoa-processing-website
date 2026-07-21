@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://shields.io" height="50" alt="HyperTags ©2026">
-</p>
+$${\color{Chocolate}{\Huge \textbf{HyperTags©2026}}}$$
 
 ![Homepage Screenshot](/public/images/readme/homepage-preview.png)
 
