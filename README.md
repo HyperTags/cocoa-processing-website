@@ -1,10 +1,11 @@
-<h1 align="center" style="font-size: 3rem; font-weight: 800; letter-spacing: -1px; color: blue;">
-  HyperTags©2026
-</h1>
+<p align="center">
+  <img src="https://shields.io" height="50" alt="HyperTags ©2026">
+</p>
+
+![Homepage Screenshot](/public/images/readme/homepage-preview.png)
 
 # Cocoa Processing Website
 
-![Homepage Screenshot](/public/images/readme/homepage-preview.png)
 This project was Angular (version 21.2.19) and Bootstap.
 
 ## Development server
