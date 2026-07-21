@@ -1,5 +1,7 @@
 $${\color{Chocolate}{\Huge \textbf{HyperTags©2026}}}$$
 
+---
+
 ![Homepage Screenshot](/public/images/readme/homepage-preview.png)
 
 # Cocoa Processing Website
