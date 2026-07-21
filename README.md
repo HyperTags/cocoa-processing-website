@@ -1,6 +1,11 @@
+<h1 align="center" style="font-size: 3rem; font-weight: 800; letter-spacing: -1px;">
+  HyperTags©2026
+</h1>
+---
 # CocoaProcessingWebsite
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.19.
+![Homepage Screenshot](cocoa-processing-website/public/images/readme/homepage-preview.png)
+This project was Angular (version 21.2.19) and Bootstap.
 
 ## Development server
 
