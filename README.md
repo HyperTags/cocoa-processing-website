@@ -1,4 +1,22 @@
-$${\color{Chocolate}{\Huge \textbf{HyperTags©2026}}}$$
+<!-- $${\color{Chocolate}{\Huge \textbf{HyperTags©2026}}}$$ -->
+
+<table width="100%">
+  <tr>
+    <td align="center" bgcolor="#642e1c">
+      <!-- Row 1: Giant One-Line Title -->
+      <h1><font color="#f7a73e" size="7"><b>HyperTags©2026</b></font></h1>
+      <!-- Row 2: Subtitle -->
+      <p><font color="#ffe6d9" size="4">Frontend Engineer &bull; System Analyst & Designer</font></p>
+      <!-- Row 3: Branded Tech Badges -->
+      <p>
+        <img src="https://shields.io" alt="Angular">
+        <img src="https://shields.io" alt="Bootstrap">
+      </p>
+      <br>
+    </td>
+  </tr>
+</table>
+---
 
 ![Homepage Screenshot](/public/images/readme/homepage-preview.png)
 
